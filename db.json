@@ -18,7 +18,7 @@
         "tipo": "Sedan",
         "quilometragem": 60000,
         "numeroPortas": 4,
-        "imagem": "https://65e81151f52e248c552b-fe74cd567ea2f1228f846834bd67571e.ssl.cf1.rackcdn.com/ldm-images/2019-Honda-Civic-CRYSTAL_BLACK_PEARL.png"
+        "imagem": "https://i.ibb.co/g4jJV1W/Corolla-1.png"
       },
       {
         "marca": "Ford",
@@ -28,7 +28,7 @@
         "tipo": "SUV",
         "quilometragem": 30000,
         "numeroPortas": 4,
-        "imagem": "https://pensecarros.com.br/cms/uploads/ford-ecosport-1-5-ti-vct-flex-se-automatico-5e4df40ce183b.png"
+        "imagem": "https://i.ibb.co/g4jJV1W/Corolla-1.png"
       },
       {
         "marca": "Chevrolet",
@@ -38,7 +38,7 @@
         "tipo": "Hatch",
         "quilometragem": 80000,
         "numeroPortas": 4,
-        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEvLRcsQVeNvo3yRkJkKdN02bsJW4lW1zXPQ&s"
+        "imagem": "https://i.ibb.co/g4jJV1W/Corolla-1.png"
       },
       {
         "marca": "Volkswagen",
@@ -48,7 +48,7 @@
         "tipo": "Hatch",
         "quilometragem": 15000,
         "numeroPortas": 4,
-        "imagem": "https://a.d-cd.net/a7827bcs-960.jpg"
+        "imagem": "https://i.ibb.co/g4jJV1W/Corolla-1.png"
       },
       {
         "marca": "Fiat",
@@ -58,37 +58,7 @@
         "tipo": "Hatch",
         "quilometragem": 95000,
         "numeroPortas": 4,
-        "imagem": "https://img2.icarros.com/dbimg/galeriaimgmodelo/7/64210_1.jpg"
-      },
-      {
-        "marca": "Nissan",
-        "modelo": "Kicks",
-        "anoFabricacao": 2020,
-        "cor": "Laranja",
-        "tipo": "SUV",
-        "quilometragem": 25000,
-        "numeroPortas": 4,
-        "imagem": "https://wieck-nissanao-production.s3.amazonaws.com/photos/06411a37bb7c7620dba02b7b7fc7955a06506444/preview-928x522.jpg"
-      },
-      {
-        "marca": "BMW",
-        "modelo": "X3",
-        "anoFabricacao": 2021,
-        "cor": "Preto",
-        "tipo": "SUV",
-        "quilometragem": 12000,
-        "numeroPortas": 4,
-        "imagem": "https://prod.cosy.bmw.cloud/bmwweb/cosySec?COSY-EU-100-7331cqgv2Z7d%25i02uCaY3MuO2kOHUtWPfbYf6J7P10tLhu1XzWVo7puMLWFmdkAj5DOP4tEKZ8XgY1nTNIowJ4HO3zkyXq%25sGM8snpq6v6ODubLz2aKqfUK8jmB2fJj5DOP5Eagd%25kcWExHWpbl8FO2k3Hy2o24NPKTQBrXpFkzalZ24riInM0scpF4Hv5tX0KiIFJG8OxABHvIT9PeWO2JGvloMjlgpT9GsLzm6Uilo90yaAwbHsLoACROehJ0yLOEjVuqTACygN6UBmlOECUkwb17sgNE89dsLx9FUilo9E4DiI14oscpF4HvVDB0KiIFJGztyABHvIT9afgO2JGvloRSRgpT9GsLxnFUilo90yW5ZbHsLoACe0ThJ0yLOEjxlqTACygN6WYmlOECUkw1P7sgNEbnCNJ10UkNh5E8zVAbnkq8NeFzOh5nmPkjmagq857Mn6uRUmP81D50nxb7MPVY8A6Wh1DMzt%25feeqVYDafu9TjmztYRS3XR67aftxdXrWw1RSfWQr4V%25VxdSKMlVYw%25vWh1DMzt%25p0eqVYDafuiwjmztYRS3mO67aftxdXIgw1RSfWQxrD%25VxdSeZSFXuzWQdjcdIy3aeZQ6KQ6eXRjcZwBZ6Irx6Kc%252c054WwBKupKYTFe%252B3iBeVIjup2XH2jav63iprJp9yGwgiEPyTpRBYnHg0KEcw2FD4fXnjN"
-      },
-      {
-        "marca": "Audi",
-        "modelo": "A3",
-        "anoFabricacao": 2019,
-        "cor": "Prata",
-        "tipo": "Sedan",
-        "quilometragem": 35000,
-        "numeroPortas": 4,
-        "imagem": "https://www.autoracing.com.br/wp-content/uploads/2019/08/Audi-A3-.png"
+        "imagem": "https://i.ibb.co/g4jJV1W/Corolla-1.png"
       },
       {
         "marca": "Peugeot",
@@ -98,7 +68,7 @@
         "tipo": "Hatch",
         "quilometragem": 5000,
         "numeroPortas": 4,
-        "imagem": "https://www.autoracing.com.br/wp-content/uploads/2019/08/Audi-A3-.png"
+        "imagem": "https://i.ibb.co/g4jJV1W/Corolla-1.png"
       }
     ]
   }
