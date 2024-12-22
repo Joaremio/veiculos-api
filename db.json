@@ -28,7 +28,7 @@
         "tipo": "SUV",
         "quilometragem": 30000,
         "numeroPortas": 4,
-        "imagem": "https://example.com/imagens/ford_ecosport_prata.jpg"
+        "imagem": "https://w7.pngwing.com/pngs/614/690/png-transparent-ford-motor-company-2018-ford-ecosport-se-2018-ford-ecosport-titanium-ford-compact-car-car-automatic-transmission.png"
       },
       {
         "marca": "Chevrolet",
@@ -38,7 +38,7 @@
         "tipo": "Hatch",
         "quilometragem": 80000,
         "numeroPortas": 4,
-        "imagem": "https://example.com/imagens/chevrolet_onix_vermelho.jpg"
+        "imagem": "https://w7.pngwing.com/pngs/44/980/png-transparent-chevrolet-onix-car-general-motors-chevrolet-prisma-chevrolet-compact-car-sedan-color.png"
       },
       {
         "marca": "Volkswagen",
@@ -48,7 +48,7 @@
         "tipo": "Hatch",
         "quilometragem": 15000,
         "numeroPortas": 4,
-        "imagem": "https://example.com/imagens/volkswagen_golf_azul.jpg"
+        "imagem": "https://w1.pngwing.com/pngs/673/644/png-transparent-golf-volkswagen-golf-gti-2014-volkswagen-golf-car-volkswagen-group-volkswagen-golf-r-international-motor-show-germany-volkswagen-golf-mk7.png"
       },
       {
         "marca": "Fiat",
@@ -58,7 +58,7 @@
         "tipo": "Hatch",
         "quilometragem": 95000,
         "numeroPortas": 4,
-        "imagem": "https://example.com/imagens/fiat_punto_cinza.jpg"
+        "imagem": "https://w7.pngwing.com/pngs/349/420/png-transparent-fiat-punto-fiat-automobiles-car-fiat-panda-others-compact-car-car-fiat-500.png"
       },
       {
         "marca": "Nissan",
@@ -68,7 +68,7 @@
         "tipo": "SUV",
         "quilometragem": 25000,
         "numeroPortas": 4,
-        "imagem": "https://example.com/imagens/nissan_kicks_laranja.jpg"
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSj5O7sbRT9-2YfS5zMB_6DtIMgleOi2GiJQ&s"
       },
       {
         "marca": "BMW",
@@ -78,7 +78,7 @@
         "tipo": "SUV",
         "quilometragem": 12000,
         "numeroPortas": 4,
-        "imagem": "https://example.com/imagens/bmw_x3_preto.jpg"
+        "imagem": "https://w7.pngwing.com/pngs/165/629/png-transparent-2018-bmw-x5-2017-bmw-x5-car-bmw-x3-bmw-x5-pic-compact-car-vehicle-rim.png"
       },
       {
         "marca": "Audi",
