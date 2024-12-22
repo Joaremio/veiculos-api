@@ -1,0 +1,155 @@
+{
+    "veiculos": [
+      {
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "anoFabricacao": 2020,
+        "cor": "Branco",
+        "tipo": "Sedan",
+        "quilometragem": 45000,
+        "numeroPortas": 4,
+        "imagem": "https://example.com/imagens/toyota_corolla_branco.jpg"
+      },
+      {
+        "marca": "Honda",
+        "modelo": "Civic",
+        "anoFabricacao": 2019,
+        "cor": "Preto",
+        "tipo": "Sedan",
+        "quilometragem": 60000,
+        "numeroPortas": 4,
+        "imagem": "https://example.com/imagens/honda_civic_preto.jpg"
+      },
+      {
+        "marca": "Ford",
+        "modelo": "EcoSport",
+        "anoFabricacao": 2021,
+        "cor": "Prata",
+        "tipo": "SUV",
+        "quilometragem": 30000,
+        "numeroPortas": 4,
+        "imagem": "https://example.com/imagens/ford_ecosport_prata.jpg"
+      },
+      {
+        "marca": "Chevrolet",
+        "modelo": "Onix",
+        "anoFabricacao": 2018,
+        "cor": "Vermelho",
+        "tipo": "Hatch",
+        "quilometragem": 80000,
+        "numeroPortas": 4,
+        "imagem": "https://example.com/imagens/chevrolet_onix_vermelho.jpg"
+      },
+      {
+        "marca": "Volkswagen",
+        "modelo": "Golf",
+        "anoFabricacao": 2022,
+        "cor": "Azul",
+        "tipo": "Hatch",
+        "quilometragem": 15000,
+        "numeroPortas": 4,
+        "imagem": "https://example.com/imagens/volkswagen_golf_azul.jpg"
+      },
+      {
+        "marca": "Fiat",
+        "modelo": "Punto",
+        "anoFabricacao": 2017,
+        "cor": "Cinza",
+        "tipo": "Hatch",
+        "quilometragem": 95000,
+        "numeroPortas": 4,
+        "imagem": "https://example.com/imagens/fiat_punto_cinza.jpg"
+      },
+      {
+        "marca": "Nissan",
+        "modelo": "Kicks",
+        "anoFabricacao": 2020,
+        "cor": "Laranja",
+        "tipo": "SUV",
+        "quilometragem": 25000,
+        "numeroPortas": 4,
+        "imagem": "https://example.com/imagens/nissan_kicks_laranja.jpg"
+      },
+      {
+        "marca": "BMW",
+        "modelo": "X3",
+        "anoFabricacao": 2021,
+        "cor": "Preto",
+        "tipo": "SUV",
+        "quilometragem": 12000,
+        "numeroPortas": 4,
+        "imagem": "https://example.com/imagens/bmw_x3_preto.jpg"
+      },
+      {
+        "marca": "Audi",
+        "modelo": "A3",
+        "anoFabricacao": 2019,
+        "cor": "Prata",
+        "tipo": "Sedan",
+        "quilometragem": 35000,
+        "numeroPortas": 4,
+        "imagem": "https://example.com/imagens/audi_a3_prata.jpg"
+      },
+      {
+        "marca": "Mercedes-Benz",
+        "modelo": "C-Class",
+        "anoFabricacao": 2020,
+        "cor": "Azul",
+        "tipo": "Sedan",
+        "quilometragem": 20000,
+        "numeroPortas": 4,
+        "imagem": "https://example.com/imagens/mercedes_benz_c_class_azul.jpg"
+      },
+      {
+        "marca": "Jeep",
+        "modelo": "Compass",
+        "anoFabricacao": 2021,
+        "cor": "Branco",
+        "tipo": "SUV",
+        "quilometragem": 15000,
+        "numeroPortas": 4,
+        "imagem": "https://example.com/imagens/jeep_compass_branco.jpg"
+      },
+      {
+        "marca": "Renault",
+        "modelo": "Duster",
+        "anoFabricacao": 2021,
+        "cor": "Preto",
+        "tipo": "SUV",
+        "quilometragem": 10000,
+        "numeroPortas": 4,
+        "imagem": "https://example.com/imagens/renault_duster_preto.jpg"
+      },
+      {
+        "marca": "Hyundai",
+        "modelo": "HB20",
+        "anoFabricacao": 2018,
+        "cor": "Verde",
+        "tipo": "Hatch",
+        "quilometragem": 70000,
+        "numeroPortas": 4,
+        "imagem": "https://example.com/imagens/hyundai_hb20_verde.jpg"
+      },
+      {
+        "marca": "Chery",
+        "modelo": "Tiggo 2",
+        "anoFabricacao": 2020,
+        "cor": "Vermelho",
+        "tipo": "SUV",
+        "quilometragem": 15000,
+        "numeroPortas": 4,
+        "imagem": "https://example.com/imagens/chery_tiggo_2_vermelho.jpg"
+      },
+      {
+        "marca": "Peugeot",
+        "modelo": "208",
+        "anoFabricacao": 2022,
+        "cor": "Amarelo",
+        "tipo": "Hatch",
+        "quilometragem": 5000,
+        "numeroPortas": 4,
+        "imagem": "https://example.com/imagens/peugeot_208_amarelo.jpg"
+      }
+    ]
+  }
+  
