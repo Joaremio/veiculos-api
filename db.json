@@ -3,71 +3,71 @@
       {
         "marca": "Toyota",
         "modelo": "Corolla",
-        "anoFabricacao": 2020,
+        "ano": 2020,
         "cor": "Branco",
         "tipo": "Sedan",
         "quilometragem": 45000,
-        "numeroPortas": 4,
+        "portas": 4,
         "imagem": "https://i.ibb.co/g4jJV1W/Corolla-1.png"
       },
       {
         "marca": "Honda",
         "modelo": "Civic",
-        "anoFabricacao": 2019,
+        "ano": 2019,
         "cor": "Preto",
         "tipo": "Sedan",
         "quilometragem": 60000,
-        "numeroPortas": 4,
+        "portas": 4,
         "imagem": "https://i.ibb.co/g4jJV1W/Corolla-1.png"
       },
       {
         "marca": "Ford",
         "modelo": "EcoSport",
-        "anoFabricacao": 2021,
+        "ano": 2021,
         "cor": "Prata",
         "tipo": "SUV",
         "quilometragem": 30000,
-        "numeroPortas": 4,
+        "portas": 4,
         "imagem": "https://i.ibb.co/g4jJV1W/Corolla-1.png"
       },
       {
         "marca": "Chevrolet",
         "modelo": "Onix",
-        "anoFabricacao": 2018,
+        "ano": 2018,
         "cor": "Vermelho",
         "tipo": "Hatch",
         "quilometragem": 80000,
-        "numeroPortas": 4,
+        "portas": 4,
         "imagem": "https://i.ibb.co/g4jJV1W/Corolla-1.png"
       },
       {
         "marca": "Volkswagen",
         "modelo": "Golf",
-        "anoFabricacao": 2022,
+        "ano": 2022,
         "cor": "Azul",
         "tipo": "Hatch",
         "quilometragem": 15000,
-        "numeroPortas": 4,
+        "portas": 4,
         "imagem": "https://i.ibb.co/g4jJV1W/Corolla-1.png"
       },
       {
         "marca": "Fiat",
         "modelo": "Punto",
-        "anoFabricacao": 2017,
+        "ano": 2017,
         "cor": "Cinza",
         "tipo": "Hatch",
         "quilometragem": 95000,
-        "numeroPortas": 4,
+        "portas": 4,
         "imagem": "https://i.ibb.co/g4jJV1W/Corolla-1.png"
       },
       {
         "marca": "Peugeot",
         "modelo": "208",
-        "anoFabricacao": 2022,
+        "ano": 2022,
         "cor": "Amarelo",
         "tipo": "Hatch",
         "quilometragem": 5000,
-        "numeroPortas": 4,
+        "portas": 4,
         "imagem": "https://i.ibb.co/g4jJV1W/Corolla-1.png"
       }
     ]
