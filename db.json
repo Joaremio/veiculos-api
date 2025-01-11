@@ -18,7 +18,7 @@
         "tipo": "Sedan",
         "quilometragem": 60000,
         "portas": 4,
-        "imagem": "https://i.ibb.co/g4jJV1W/Corolla-1.png"
+        "imagem": "https://resized-images.autoconf.com.br/1200x630/filters:format(jpg)/veiculos/fotos/220090/ff234c3a-90e4-4891-b482-6e9bc8f0713d.jpg"
       },
       {
         "marca": "Ford",
@@ -28,7 +28,7 @@
         "tipo": "SUV",
         "quilometragem": 30000,
         "portas": 4,
-        "imagem": "https://i.ibb.co/g4jJV1W/Corolla-1.png"
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREmUBrFo5qOilnumUURQ8DcpRAJ4NuLkc5hw&s"
       },
       {
         "marca": "Chevrolet",
@@ -38,17 +38,7 @@
         "tipo": "Hatch",
         "quilometragem": 80000,
         "portas": 4,
-        "imagem": "https://i.ibb.co/g4jJV1W/Corolla-1.png"
-      },
-      {
-        "marca": "Volkswagen",
-        "modelo": "Golf",
-        "ano": 2022,
-        "cor": "Azul",
-        "tipo": "Hatch",
-        "quilometragem": 15000,
-        "portas": 4,
-        "imagem": "https://i.ibb.co/g4jJV1W/Corolla-1.png"
+        "imagem": "https://www.tabelafipebrasil.com/site/images/FIPE/png/004424-5.png"
       },
       {
         "marca": "Fiat",
@@ -58,7 +48,7 @@
         "tipo": "Hatch",
         "quilometragem": 95000,
         "portas": 4,
-        "imagem": "https://i.ibb.co/g4jJV1W/Corolla-1.png"
+        "imagem": "https://quatrorodas.abril.com.br/wp-content/uploads/2016/11/565f47452daad077cba0ffb1fiat-punto-young.jpeg?quality=70&strip=all"
       },
       {
         "marca": "Peugeot",
@@ -68,7 +58,7 @@
         "tipo": "Hatch",
         "quilometragem": 5000,
         "portas": 4,
-        "imagem": "https://i.ibb.co/g4jJV1W/Corolla-1.png"
+        "imagem": "https://imgservprod.bymycar.fr/image/?apikey=437fe90bfc2e7879f0953434890aa246&url=https://feassets.bymycar.fr/vo/7/277211/0/peugeot-208-electrique-50-kwh-136ch-occasion-2024-annemasse.jpg&w=321&h=226&output=webp&q=50&bg=FFFFFF&t=square&a=center&fit=cover"
       }
     ]
   }
